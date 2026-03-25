@@ -10,7 +10,7 @@
       "longitude": 33.4905,
       "artifacts": [
         1,
-        3
+        2
       ],
       "image": "source/museum/1.jpg",
       "description": "«Новый Херсонес» — это масштабный историко-археологический парк в Севастополе, построенный рядом с древним городищем",
@@ -30,17 +30,17 @@
       "model_3d": "source/models/1_1.glb"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Лира Ритма",
       "museum_id": 1,
       "difficulty": "epic",
       "minigame": "piano",
       "map_x": 59.90338164251207,
       "map_y": 23.809523809523807,
-      "image": "source/artefacts/1_3.png",
-      "model_3d": "source/models/1_3.glb",
-      "music": "source/music/1_3.mp3",
-      "piano_bg": "source/piano_bg/piano_bg_1_3.jpg",
+      "image": "source/artefacts/1_2.png",
+      "model_3d": "source/models/1_2.glb",
+      "music": "source/music/1_2.mp3",
+      "piano_bg": "source/piano_bg/piano_bg_1_2.jpg",
       "piano_beats": [
         0.52,
         0.69,
@@ -852,8 +852,8 @@
         135.98,
         136.14
       ],
-      "tile_speed": 10.0,
-      "song_difficulty": 4
+      "tile_speed": 5.0,
+      "song_difficulty": 1
     }
   ]
 }
