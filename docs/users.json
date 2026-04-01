@@ -1,0 +1,44 @@
+[
+  {
+    "nickname": "Nol",
+    "email": "kvakilov@gmail.com",
+    "password": "1",
+    "profile": {
+      "museums_completed": 0,
+      "artifacts_found": 3,
+      "rating": 0,
+      "email_masked": "kva*****@gmail.com",
+      "two_factor_enabled": false,
+      "avatar": "source/avatar/Nol.jpg",
+      "coins": 3550
+    },
+    "inventory": {
+      "skins": [],
+      "items": [
+        3,
+        1,
+        2
+      ],
+      "achievements": []
+    },
+    "artifact_failures": {}
+  },
+  {
+    "nickname": "NolPro12",
+    "email": "sd@gmail.com",
+    "password": "12345678",
+    "profile": {
+      "museums_completed": 0,
+      "artifacts_found": 0,
+      "rating": 0,
+      "email_masked": "*****@gmail.com",
+      "two_factor_enabled": false
+    },
+    "inventory": {
+      "skins": [],
+      "items": [],
+      "achievements": []
+    },
+    "artifact_failures": {}
+  }
+]
